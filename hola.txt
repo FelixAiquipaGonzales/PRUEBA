@@ -1,5 +1,8 @@
 hola mi nombre es felix y aspiro a ser el progrador de la nasa
 por ello decidire estudiar en la UNI la carrera de ingenieria aeroespacial. I will mañana nos esfocaremos en su vida laboral
 
+fredi añadio un imagen en su repositorio, por ende es un archivo binario
+
+
 
 
